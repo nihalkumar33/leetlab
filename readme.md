@@ -8,8 +8,8 @@
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://leetlab-drab.vercel.app](https://leetlab.nbaworks.dev)
-- **Backend API**: https://leetlab-api.onrender.com/
+- **Frontend**: https://leetlab.nbaworks.dev
+- **Backend API**: https://leetlab-api.onrender.com
 
 > ⚠️ **Note:** If the website takes time to load initially, please be patient. The server may need 50 seconds to spin up.
 
