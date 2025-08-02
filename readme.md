@@ -15,8 +15,8 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetLab-Coding%20Platform-blue?style=for-the-badge&logo=leetcode" alt="LeetLab" />
-  <br/>
+<!--   <img src="https://img.shields.io/badge/LeetLab-Coding%20Platform-blue?style=for-the-badge&logo=leetcode" alt="LeetLab" />
+  <br/> -->
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-19+-blue?style=flat-square&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-14+-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
